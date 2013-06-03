@@ -214,4 +214,4 @@ Pour générer les pages xhtml ou tout autre fichier (non java), il faudra non p
 
 Une documentation expliquant la mise en place du processor côté client est fournie avec le projet client d'exemple. De plus, une vidéo de démonstration (ci-dessous) montre les substilités de la configuration des plugins dans le .pom du projet client.
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=3mMtUV_WIP8)
+[![Video generateur](http://img.youtube.com/vi/3mMtUV_WIP8/0.jpg)](http://www.youtube.com/watch?v=3mMtUV_WIP8)
